@@ -1,8 +1,4 @@
 # salaah_time
 
-A new Flutter application.
+> Mobile application that shows prayer times based on the given location. The application uses Flutter framework with Dart lang to create crossplatform (Androind and iOS) apps.
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
